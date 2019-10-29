@@ -1,0 +1,5 @@
+torch
+albumentations
+pretrainedmodels
+segmentation-models
+
