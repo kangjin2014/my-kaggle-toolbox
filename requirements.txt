@@ -1,0 +1,7 @@
+torch
+albumentations
+pretrainedmodels
+segmentation-models
+seaborn
+matplotlib
+sklearn
